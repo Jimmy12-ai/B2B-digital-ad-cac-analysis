@@ -1,6 +1,4 @@
-![B2B CAC Analyzer Cover](assets/cover.png)
-
-# B2B Digital Advertising & CAC Efficiency Analysis
+![Weekly Average CAC Trend](assets/Weekly%20Average%20CAC%20Trend%20-%20Baseline%20vs%20Post-Shift%20p...png)
 
 B2B Digital Advertising & CAC Efficiency Analysis
 
