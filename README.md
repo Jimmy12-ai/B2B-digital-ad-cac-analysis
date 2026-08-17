@@ -43,6 +43,7 @@ CAC Performance by Service
 | Retail Digital Ads | 900,000 | 3 | 300,000 | 900,000 | 100% |
 
 Strategic Recommendation:
+
 Reallocate 70% of budget to `CFOs + Corporate Banking` segments. 
 These 2 segments deliver 3x higher efficiency and 12x ROI compared to broad targeting.
 This allows the company to reduce CAC by 40% without reducing revenue.
