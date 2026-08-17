@@ -56,7 +56,13 @@ Business Recommendation
 Tools & Skills Demonstrated
 Excel, Statistical Analysis, Business Reporting, Data-Driven Decision Making, A/B Testing
 
-Impact
-This project shows how data analysts in banking and B2B can link marketing spend to business outcomes and provide recommendations that protect budget and improve ROI.
+ Business Impact
+
+This project demonstrates data-driven decision making in B2B marketing:
+1.  problem Identified: Overall ad spend increase showed no statistical significance `p=.469`
+2.  Analysis: Built segmentation model to track CAC by Audience and Service in Excel
+3.  Insight: Only 2 out of 6 segments are profitable. Broad targeting destroys ROI
+4.  Recommendation: Pause scale-up. Focus budget on high-LTV, low-CAC segments
+5.  Value: Framework that helps banking/B2B companies save 30-40% of ad budget while protecting revenue
 
 Connect with me: [LinkedIn](https://www.linkedin.com/in/james-msuya-0306532a5/)
