@@ -9,6 +9,7 @@ Overview
 This project analyzes the impact of digital advertising budget allocation on Customer Acquisition Cost efficiency for B2B service firms. As a Business Administration - Banking & Finance graduate, I built this to demonstrate practical business analysis skills for banking, fintech, and B2B roles.
 
 Business Problem
+
 B2B firms are shifting more budget to digital channels like LinkedIn, Google Ads, and Email. But leadership needs to answer: "Is this spend actually making customer acquisition more efficient, or are we just spending more?" Without evidence, budget decisions risk wasting resources.
 
 Approach
