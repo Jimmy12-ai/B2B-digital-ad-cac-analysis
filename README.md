@@ -1,3 +1,7 @@
+![B2B CAC Analyzer Cover](assets/cover.png)
+
+# B2B Digital Advertising & CAC Efficiency Analysis
+
 B2B Digital Advertising & CAC Efficiency Analysis
 
 Overview
