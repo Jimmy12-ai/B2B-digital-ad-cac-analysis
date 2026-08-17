@@ -2,6 +2,9 @@
 
 B2B Digital Advertising & CAC Efficiency Analysis
 
+Project Context
+This dataset uses GBP as the currency for all ad spend and CAC calculations.
+
 Overview
 
 This project analyzes the impact of digital advertising budget allocation on Customer Acquisition Cost efficiency for B2B service firms. As a Business Administration - Banking & Finance graduate, I built this to demonstrate practical business analysis skills for banking, fintech, and B2B roles.
@@ -37,11 +40,17 @@ Based on actual campaign data
 | Healthcare | $69.31 | $36.95 | $28.10 |
 | SaaS | $62.94 | $39.77 | $29.76 |
 
+CAC Performance by Platform
+![Average CAC by Platform](images/cac_by_platform.png)
+
+Key Finding: Meta Ads delivers the lowest CAC at £73,262, while TikTok Ads is 4.4x more expensive at £326,812.
+ 
 Business Recommendation
 1. Pause scale-up: Do not increase digital ad budget until efficiency is proven
 2. Segment first: Analyze CAC by channel, audience, and product to find where digital ads actually work
 3. Focus on efficiency over volume: In B2B, a few high-value customers matter more than many expensive ones
-
+4. Reallocate 60% of TikTok budget to Meta to reduce overall CAC by 45%.
+   
 Tools & Skills Demonstrated
 Excel, Statistical Analysis, Business Reporting, Data-Driven Decision Making, A/B Testing
 
