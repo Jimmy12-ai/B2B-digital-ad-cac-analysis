@@ -5,6 +5,7 @@
 B2B Digital Advertising & CAC Efficiency Analysis
 
 Overview
+
 This project analyzes the impact of digital advertising budget allocation on Customer Acquisition Cost efficiency for B2B service firms. As a Business Administration - Banking & Finance graduate, I built this to demonstrate practical business analysis skills for banking, fintech, and B2B roles.
 
 Business Problem
@@ -12,21 +13,21 @@ B2B firms are shifting more budget to digital channels like LinkedIn, Google Ads
 
 Approach
 I conducted an A/B style analysis comparing CAC before and after a budget shift to digital advertising.
-- **Dataset**: Simulated baseline vs post-shift data, N = 1,801 observations
-- **Metric**: Customer Acquisition Cost (CAC). Lower CAC = higher efficiency
-- **Method**: Descriptive statistics + significance testing to validate if the change was real
+- Dataset: Simulated baseline vs post-shift data, N = 1,801 observations
+- Metric: Customer Acquisition Cost (CAC). Lower CAC = higher efficiency
+- Method: Descriptive statistics + significance testing to validate if the change was real
 
 Key Findings
-- **Baseline CAC**: $45.19 
-- **Post-Shift CAC**: $46.96 
-- **Change**: +$1.77 increase, or +3.9%
-- **Statistical Test**: p = .469 → Not statistically significant
-- **Conclusion**: Fail to reject H0. There is no statistical evidence that the budget shift improved acquisition efficiency.
+- Baseline CAC: $45.19 
+- Post-Shift CAC: $46.96 
+- Change: +$1.77 increase, or +3.9%
+- Statistical Test: p = .469 → Not statistically significant
+- Conclusion: Fail to reject H0. There is no statistical evidence that the budget shift improved acquisition efficiency.
 
 Business Recommendation
-1. **Pause scale-up**: Do not increase digital ad budget until efficiency is proven
-2. **Segment first**: Analyze CAC by channel, audience, and product to find where digital ads actually work
-3. **Focus on efficiency over volume**: In B2B, a few high-value customers matter more than many expensive ones
+1. Pause scale-up: Do not increase digital ad budget until efficiency is proven
+2. Segment first: Analyze CAC by channel, audience, and product to find where digital ads actually work
+3. Focus on efficiency over volume: In B2B, a few high-value customers matter more than many expensive ones
 
 Tools & Skills Demonstrated
 Excel, Statistical Analysis, Business Reporting, Data-Driven Decision Making, A/B Testing
