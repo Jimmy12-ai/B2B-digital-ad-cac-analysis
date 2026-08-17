@@ -28,25 +28,13 @@ Key Findings
 The statistical test showed p = .469, meaning the overall budget shift had no significant impact. 
 This proves that broad targeting in B2B wastes budget. The solution is segmentation.
 
-CAC Performance by Audience
-| Audience Segment | Channel | Ad Spend (TZS) | New Customers | CAC (TZS) | Est. LTV (TZS) | CAC Ratio |
-| --- | --- | --- | --- | --- | --- | --- |
-| CFOs & Finance Managers | LinkedIn Ads | 500,000 | 5 | 100,000 | 2,000,000 | 1:20 |
-| Procurement Managers | Google Search | 600,000 | 4 | 150,000 | 1,800,000 | 1:12 |
-| General SMB Owners | Facebook Ads | 700,000 | 2 | 350,000 | 500,000 | 1:1.4 |
-
-CAC Performance by Service
-| Service/Product | Ad Spend (TZS) | New Customers | CAC (TZS) | Revenue (TZS) | ROI |
-| --- | --- | --- | --- | --- | --- |
-| Corporate Banking | 800,000 | 4 | 200,000 | 10,000,000 | 1250% |
-| Treasury Services | 500,000 | 3 | 166,667 | 6,000,000 | 1200% |
-| Retail Digital Ads | 900,000 | 3 | 300,000 | 900,000 | 100% |
-
-Strategic Recommendation:
-
-Reallocate 70% of budget to `CFOs + Corporate Banking` segments. 
-These 2 segments deliver 3x higher efficiency and 12x ROI compared to broad targeting.
-This allows the company to reduce CAC by 40% without reducing revenue.
+CAC Performance by Industry & Platform
+Based on actual campaign data
+| Audience Segment | Channel | Avg CAC (USD) |
+| --- | --- | --- |
+| Fintech | Meta Ads | 9.80 |
+| SaaS | Google Ads | 7.66 |
+| Healthcare | TikTok Ads | 80.97 |
 
 Business Recommendation
 1. Pause scale-up: Do not increase digital ad budget until efficiency is proven
