@@ -30,11 +30,12 @@ This proves that broad targeting in B2B wastes budget. The solution is segmentat
 
 CAC Performance by Industry & Platform
 Based on actual campaign data
-| Audience Segment | Channel | Avg CAC (USD) |
-| --- | --- | --- |
-| Fintech | Meta Ads | 9.80 |
-| SaaS | Google Ads | 7.66 |
-| Healthcare | TikTok Ads | 80.97 |
+
+| Industry | Google Ads | Meta Ads | TikTok Ads |
+| --- | --- | --- | --- |
+| E-commerce | $61.13 | $39.18 | $27.81 |
+| Healthcare | $69.31 | $36.95 | $28.10 |
+| SaaS | $62.94 | $39.77 | $29.76 |
 
 Business Recommendation
 1. Pause scale-up: Do not increase digital ad budget until efficiency is proven
