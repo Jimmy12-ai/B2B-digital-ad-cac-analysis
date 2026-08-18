@@ -1,4 +1,4 @@
-![CAC Trend](assets_v2/cac_weekly_trend.png)
+![CAC Weekly Trend](assets_v2/cac_weekly_trend.png)
 
 B2B Digital Advertising & CAC Efficiency Analysis
 
