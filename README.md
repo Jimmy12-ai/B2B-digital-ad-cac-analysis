@@ -65,3 +65,13 @@ This project demonstrates data-driven decision making in B2B marketing:
 5.  Value: Framework that helps banking/B2B companies save 30-40% of ad budget while protecting revenue
 
 Connect with me: [LinkedIn](https://www.linkedin.com/in/james-msuya-0306532a5/)
+
+📊 Project Files
+
+Download the full Excel Analyzer here: 
+[Download CAC_Analyzer.xlsx](data/cac_analyzer.xlsx)
+
+What's inside:
+- CAC calculations by platform
+- Budget allocation dashboard  
+- Raw data for replication
