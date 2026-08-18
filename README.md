@@ -42,7 +42,7 @@ Based on actual campaign data
 | SaaS | $62.94 | $39.77 | $29.76 |
 
 CAC Performance by Platform
-![Average CAC by Platform](images/cac_by_platform.png)
+![CAC by Platform](assets/cac_by_platform.png)
 
 Key Finding: Meta Ads delivers the lowest CAC at £73,262, while TikTok Ads is 4.4x more expensive at £326,812.
  
