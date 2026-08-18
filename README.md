@@ -3,6 +3,7 @@
 B2B Digital Advertising & CAC Efficiency Analysis
 
 Project Context
+
 This dataset uses GBP as the currency for all ad spend and CAC calculations.
 
 Overview
